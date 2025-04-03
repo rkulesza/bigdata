@@ -1,4 +1,4 @@
-readme_content = """# 📊 Big Data - Materiais da Disciplina
+# 📊 Big Data - Materiais da Disciplina
 
 Bem-vindo ao repositório oficial da disciplina de **Big Data**! Este espaço centraliza todos os conteúdos teóricos e práticos utilizados ao longo do curso.
 
@@ -26,4 +26,52 @@ Bem-vindo ao repositório oficial da disciplina de **Big Data**! Este espaço ce
 │   └── nyc_taxi_sample.csv
 ├── projects/                    # Projetos ou estudos de caso
 │   └── recommendation_system/
+```
+
+---
+
+
+## 🧪 Tecnologias Abordadas
+
+- Apache Spark & Hadoop
+- Kafka & sistemas de streaming
+- NoSQL (MongoDB, Cassandra)
+- Python (Pandas, PySpark)
+- Ambientes distribuídos e containers (Docker, Kubernetes)
+- Google Colab & Cloud Providers
+
+---
+
+## 📚 Como Usar
+
+1. Clone este repositório:
+```bash
+git clone https://github.com/seu-usuario/bigdata-course-materials.git
+```
+
+2. Acesse os notebooks:
+```bash
+cd notebooks/
+jupyter notebook
+```
+
+3. Siga os tutoriais de setup em `tools/` para configurar seu ambiente.
+
+---
+
+## 🧠 Créditos e Colaboradores
+
+Este material foi desenvolvido por professores, monitores e alunos da disciplina. Contribuições são bem-vindas via pull request!
+
+---
+
+## 📄 Licença
+
+Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
+
+
+
+
+
+
 
